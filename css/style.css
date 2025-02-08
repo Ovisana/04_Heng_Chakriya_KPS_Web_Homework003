@@ -647,3 +647,11 @@ footer{
     margin: 10px 13px;
     
 }
+.content{
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 10px; 
+}
+.content .one{
+    background-color: rgb(33, 162, 149);
+}
